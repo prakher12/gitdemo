@@ -1,0 +1,7 @@
+application:
+  name: mavenjava
+  package: quickacademy.mavenjava
+spring:
+  application:
+    name: ${application.name}
+
